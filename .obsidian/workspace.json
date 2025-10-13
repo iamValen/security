@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Security+/General Security Concepts/Security Controls/Security Controls.md",
+                "file": "Security/Security+/General Security Concepts/Change Management/Technical Change Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security Controls"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4c4bffa263dedf06",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ad0cfba8399db61d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Technical Change Management"
             }
           }
         ]
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "right": {
     "id": "890015f071e5d685",
@@ -189,6 +173,7 @@
   "active": "b42424f14c57bb51",
   "lastOpenFiles": [
     "Security/Security+/General Security Concepts/Change Management/Change Management.md",
+    "Security/Security+/General Security Concepts/Change Management/Technical Change Management.md",
     "Security/Security+/General Security Concepts/Security Controls/Security Controls.md",
     "Security/Security+/General Security Concepts/Security Controls",
     "Security/Security+/General Security Concepts/Security Concepts/Honeypots.md",

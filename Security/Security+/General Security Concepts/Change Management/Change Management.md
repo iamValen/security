@@ -44,3 +44,55 @@
 
 ## Impact analysis
 #### Determine a risk value (high, mid, low...)
+#### The risks can be minor or far-reaching
+- The "fix" doesn't actually fix anythin
+- The fix breaks something else
+- Operating system failures
+- Data corruption
+#### What's the risk with NOT making the change?
+- Security vulnerability
+- Application unavailability
+- Unexpected downtime to other services
+
+
+
+## Test results
+#### Sandbox testing environment
+- No connection to the real world or production system
+- A technological safe space
+#### Use before making a change to production
+- Try the upgrade, apply the patch
+- Test and confirm before deployment
+#### Confirm the backout plan
+- Move everything back to the original
+- A sandbox can't consider every possibility
+
+
+## Backout plan
+#### The change will not work perfectly and nothing will ever go bad
+- Of course it will
+#### You should always have a way to revert your changes
+- Prepare for the worst, hope for the best
+#### This isn't as easy as it sounds
+- Some changes are difficult to revert
+#### Always have good backups
+
+
+## Maintenance window
+#### When is the change happening?
+- This might be the most difficult part of the process
+#### During the workday may not be the best option
+- Potential downtime would affect a large part of production
+#### Overnights are often a better choice
+- Challenging for 24-hour production schedules
+#### The time of the year may be a consideration
+- Retail networks are frozen during the holiday season
+
+
+## Standard operating procedure
+#### Change management is critical
+- Affects everyone in the organization
+#### The process must be well documented
+- Should be available in the Intranet
+- Along with all standard processes and procedures4
+#### Changes to the process are reflected in the standards
