@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Security+/General Security Concepts/Change Management/Technical Change Management.md",
+                "file": "Security/Security+/General Security Concepts/Cryptographic Solutions/Public Key Infrastructure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technical Change Management"
+              "title": "Public Key Infrastructure"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "b42424f14c57bb51",
   "lastOpenFiles": [
-    "Security/Security+/General Security Concepts/Change Management/Change Management.md",
     "Security/Security+/General Security Concepts/Change Management/Technical Change Management.md",
+    "Security/Security+/General Security Concepts/Cryptographic Solutions/Public Key Infrastructure.md",
+    "Security/Security+/General Security Concepts/Cryptographic Solutions",
+    "Security/Security+/General Security Concepts/Change Management/Change Management.md",
     "Security/Security+/General Security Concepts/Security Controls/Security Controls.md",
     "Security/Security+/General Security Concepts/Security Controls",
     "Security/Security+/General Security Concepts/Security Concepts/Honeypots.md",
