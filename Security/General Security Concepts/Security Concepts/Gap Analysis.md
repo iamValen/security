@@ -50,7 +50,6 @@ Some baselines:
 
 
 # Example
-
-![[Pasted image 20251012153332.png]]
+![[Pasted image 20251014000343.png]]
 
 - Progress from the red to the yellow, and in the end everything should check as green

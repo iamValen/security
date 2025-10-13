@@ -12,8 +12,7 @@
 - Resources used: Login time, data sent and received, logout time
 
 # Practical use
-
-![[Pasted image 20251012131258.png]]
+![[Pasted image 20251014000411.png]]
 
 # Authenticating systems
 ### You have to manage many devices

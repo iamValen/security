@@ -53,7 +53,7 @@
 #### Allow, monitor, and terminate connections
 - Can consist of multiple components working together
 
-![[Pasted image 20251012154935.png]]
+![[Pasted image 20251014000237.png]]
 
 But it doesn't provide the decision if the traffic is allowed or disallowed
 
@@ -69,4 +69,4 @@ But it doesn't provide the decision if the traffic is allowed or disallowed
 - Generates access tokens or credentials
 - Tells the PEP to allow or disallow access
 
-![[Pasted image 20251012155238.png]]
+![[Pasted image 20251014000318.png]]

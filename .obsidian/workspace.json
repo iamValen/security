@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/General Security Concepts/Cryptographic Solutions/Public Key Infrastructure.md",
+                "file": "Security/General Security Concepts/Change Management/Change Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Public Key Infrastructure"
+              "title": "Change Management"
             }
           }
         ]
@@ -170,22 +170,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c96372fc3f918c65",
+  "active": "b42424f14c57bb51",
   "lastOpenFiles": [
     "Security/General Security Concepts/Change Management/Technical Change Management.md",
     "Security/General Security Concepts/Cryptographic Solutions/Public Key Infrastructure.md",
+    "Security/General Security Concepts/Security Controls/Security Controls.md",
+    "Security/General Security Concepts/Security Concepts/CIA Triad.md",
+    "Security/General Security Concepts/Security Concepts/Physical Security.md",
+    "Security/General Security Concepts/Security Concepts/Honeypots.md",
+    "Security/General Security Concepts/Security Concepts/Gap Analysis.md",
+    "Security/General Security Concepts/Security Concepts/Zero Trust.md",
+    "Security/General Security Concepts/Security Concepts/Non-repudiation.md",
+    "Security/General Security Concepts/Security Concepts/AAA Framework.md",
+    "assets/Pasted image 20251014000411.png",
+    "assets/Pasted image 20251014000343.png",
+    "assets/Pasted image 20251014000318.png",
+    "assets/Pasted image 20251014000237.png",
+    "assets",
     "Security/General Security Concepts/Cryptographic Solutions",
     "Security/General Security Concepts/Change Management/Change Management.md",
-    "Security/General Security Concepts/Security Controls/Security Controls.md",
     "Security/General Security Concepts/Security Controls",
-    "Security/General Security Concepts/Security Concepts/Honeypots.md",
     "Security/General Security Concepts/Change Management",
-    "Security/General Security Concepts/Security Concepts/Physical Security.md",
-    "Security/General Security Concepts/Security Concepts/Gap Analysis.md",
-    "Security/General Security Concepts/Security Concepts/AAA Framework.md",
-    "Security/General Security Concepts/Security Concepts/Non-repudiation.md",
-    "Security/General Security Concepts/Security Concepts/CIA Triad.md",
-    "Security/General Security Concepts/Security Concepts/Zero Trust.md",
     "home/Documents",
     "home",
     "Welcome.md"
