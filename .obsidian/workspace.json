@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Security+/General Security Concepts/Cryptographic Solutions/Public Key Infrastructure.md",
+                "file": "Security/General Security Concepts/Cryptographic Solutions/Public Key Infrastructure.md",
                 "mode": "source",
                 "source": false
               },
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -170,22 +170,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b42424f14c57bb51",
+  "active": "c96372fc3f918c65",
   "lastOpenFiles": [
-    "Security/Security+/General Security Concepts/Change Management/Technical Change Management.md",
-    "Security/Security+/General Security Concepts/Cryptographic Solutions/Public Key Infrastructure.md",
-    "Security/Security+/General Security Concepts/Cryptographic Solutions",
-    "Security/Security+/General Security Concepts/Change Management/Change Management.md",
-    "Security/Security+/General Security Concepts/Security Controls/Security Controls.md",
-    "Security/Security+/General Security Concepts/Security Controls",
-    "Security/Security+/General Security Concepts/Security Concepts/Honeypots.md",
-    "Security/Security+/General Security Concepts/Change Management",
-    "Security/Security+/General Security Concepts/Security Concepts/Physical Security.md",
-    "Security/Security+/General Security Concepts/Security Concepts/Gap Analysis.md",
-    "Security/Security+/General Security Concepts/Security Concepts/AAA Framework.md",
-    "Security/Security+/General Security Concepts/Security Concepts/Non-repudiation.md",
-    "Security/Security+/General Security Concepts/Security Concepts/CIA Triad.md",
-    "Security/Security+/General Security Concepts/Security Concepts/Zero Trust.md",
+    "Security/General Security Concepts/Change Management/Technical Change Management.md",
+    "Security/General Security Concepts/Cryptographic Solutions/Public Key Infrastructure.md",
+    "Security/General Security Concepts/Cryptographic Solutions",
+    "Security/General Security Concepts/Change Management/Change Management.md",
+    "Security/General Security Concepts/Security Controls/Security Controls.md",
+    "Security/General Security Concepts/Security Controls",
+    "Security/General Security Concepts/Security Concepts/Honeypots.md",
+    "Security/General Security Concepts/Change Management",
+    "Security/General Security Concepts/Security Concepts/Physical Security.md",
+    "Security/General Security Concepts/Security Concepts/Gap Analysis.md",
+    "Security/General Security Concepts/Security Concepts/AAA Framework.md",
+    "Security/General Security Concepts/Security Concepts/Non-repudiation.md",
+    "Security/General Security Concepts/Security Concepts/CIA Triad.md",
+    "Security/General Security Concepts/Security Concepts/Zero Trust.md",
     "home/Documents",
     "home",
     "Welcome.md"
