@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "5b743e0cc0f6bb77",
+    "id": "9a6807c2047044c2",
     "type": "split",
     "children": [
       {
-        "id": "1ff87b8b4a291316",
+        "id": "09a381be8b78f835",
         "type": "tabs",
         "children": [
           {
-            "id": "b42424f14c57bb51",
+            "id": "a2bbf174fb4b26a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security/General Security Concepts/Change Management/Change Management.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Change Management"
+              "title": "New tab"
             }
           }
         ]
@@ -27,20 +23,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ee929674b1c81edd",
+    "id": "bdf1d727eb37a3c5",
     "type": "split",
     "children": [
       {
-        "id": "2b7c4f9e908ed578",
+        "id": "2fbe58a9fe3fffc5",
         "type": "tabs",
         "children": [
           {
-            "id": "c96372fc3f918c65",
+            "id": "1ff912ce5810a460",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "a33ac1a297173fbc",
+            "id": "8b039efba77a8110",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "150b79977ddff748",
+            "id": "7f705c881136c47c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 300
   },
   "right": {
-    "id": "890015f071e5d685",
+    "id": "61a95302af7f8e7c",
     "type": "split",
     "children": [
       {
-        "id": "fb96d83e92b1ecc3",
+        "id": "1a3d75befb448380",
         "type": "tabs",
         "children": [
           {
-            "id": "c8961e41d31af719",
+            "id": "4d6d05dfc2090c7c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "a60f2eda799aef74",
+            "id": "cf3fde4c7d88f889",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "5549f6ea549dc664",
+            "id": "7c09965d67ada0c7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +131,17 @@
             }
           },
           {
-            "id": "b1318e464eb115f2",
+            "id": "045cd6baf047fddc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -166,33 +159,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "b42424f14c57bb51",
+  "active": "a2bbf174fb4b26a6",
   "lastOpenFiles": [
-    "Security/General Security Concepts/Change Management/Technical Change Management.md",
-    "Security/General Security Concepts/Cryptographic Solutions/Public Key Infrastructure.md",
-    "Security/General Security Concepts/Security Controls/Security Controls.md",
-    "Security/General Security Concepts/Security Concepts/CIA Triad.md",
-    "Security/General Security Concepts/Security Concepts/Physical Security.md",
-    "Security/General Security Concepts/Security Concepts/Honeypots.md",
-    "Security/General Security Concepts/Security Concepts/Gap Analysis.md",
-    "Security/General Security Concepts/Security Concepts/Zero Trust.md",
-    "Security/General Security Concepts/Security Concepts/Non-repudiation.md",
-    "Security/General Security Concepts/Security Concepts/AAA Framework.md",
-    "assets/Pasted image 20251014000411.png",
+    "General Security Concepts/Change Management/Technical Change Management.md",
     "assets/Pasted image 20251014000343.png",
+    "assets/Pasted image 20251014000411.png",
     "assets/Pasted image 20251014000318.png",
     "assets/Pasted image 20251014000237.png",
     "assets",
-    "Security/General Security Concepts/Cryptographic Solutions",
-    "Security/General Security Concepts/Change Management/Change Management.md",
-    "Security/General Security Concepts/Security Controls",
-    "Security/General Security Concepts/Change Management",
-    "home/Documents",
-    "home",
-    "Welcome.md"
+    "General Security Concepts/Change Management/Change Management.md"
   ]
 }
