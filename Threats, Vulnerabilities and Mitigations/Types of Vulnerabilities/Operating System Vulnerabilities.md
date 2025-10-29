@@ -1,0 +1,34 @@
+## Operating System
+#### A foundational computing platform
+- Everyone has an operating system
+- This makes the OS a very big target
+#### Remarkably complex
+- Millions of lines of code
+- More code means more opportunities for a security issue
+#### The vulnerabilities are already in there
+- We've just not found them yet
+
+
+## A month of OS updates
+#### A normal month of Windows updates
+- Patch Tuesday - 2nd Tuesday of each month
+- Other companies have similar schedules
+#### May 9, 2023 - Nearly 50 security patches
+- 8 Elevation of Privilege Vulnerabilities
+- 4 Security Feature Bypass Vulnerabilities
+- 12 Remote Code Execution Vulnerabilities
+- 8 Information Disclosure Vulnerabilities
+- 5 Denial of Service Vulnerabilities
+- 1 Spoofing Vulnerability
+
+
+## Best Practices for OS vulnerabilities
+#### Always update
+- Monthly or on-demand updates
+- It's a race between you and the attackers
+#### May require testing before deployment
+- A patch might break something else
+#### May require a reboot
+- Save all data
+#### Have a fallback plan
+- Where's that backup?

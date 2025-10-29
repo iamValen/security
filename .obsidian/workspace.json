@@ -8,69 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a30626eb91f2027",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20251017122936.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251017122936"
-            }
-          },
-          {
-            "id": "a75da5e00ba8ad24",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20251018172230.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251018172230"
-            }
-          },
-          {
-            "id": "8f6716ab74b3d223",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20251018172248.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251018172248"
-            }
-          },
-          {
-            "id": "bced4620bca20360",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20251018172309.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251018172309"
-            }
-          },
-          {
             "id": "57b48a51caeed14c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Memory Injections.md",
+                "file": "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/SQL Injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory Injections"
+              "title": "SQL Injection"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,33 +169,38 @@
   },
   "active": "57b48a51caeed14c",
   "lastOpenFiles": [
-    "Threats, Vulnerabilities and Mitigations/Threats and Attack Surfaces/Other Social Engineering Attacks.md",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Operating System Vulnerabilities.md",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/SQL Injection.md",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Software updates.md",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Race Conditions.md",
+    "assets/Pasted image 20251029152400.png",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Buffer Overflow.md",
+    "assets/Pasted image 20251029151246.png",
+    "assets/Pasted image 20251029151231.png",
     "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Memory Injections.md",
+    "assets/Pasted image 20251029145651.png",
+    "assets/Pasted image 20251029145458.png",
+    "Threats, Vulnerabilities and Mitigations/Threats and Attack Surfaces/Threat Vectors.md",
+    "assets/Pasted image 20251018172309.png",
+    "General Security Concepts/Cryptographic Solutions/Blockchain Technology.md",
+    "Threats, Vulnerabilities and Mitigations/Threats and Attack Surfaces/Other Social Engineering Attacks.md",
     "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities",
     "Threats, Vulnerabilities and Mitigations/Threats and Attack Surfaces/Watering Hole Attacks.md",
     "Threats, Vulnerabilities and Mitigations/Threats and Attack Surfaces/Impersonation.md",
     "Threats, Vulnerabilities and Mitigations/Threats and Attack Surfaces/Phishing.md",
-    "Threats, Vulnerabilities and Mitigations/Threats and Attack Surfaces/Threat Vectors.md",
     "Threats, Vulnerabilities and Mitigations/Threats and Attack Surfaces",
     "Threats, Vulnerabilities and Mitigations/Threats and Attack Surfaces/Threat Actors.md",
     "assets/Pasted image 20251022185921.png",
     "General Security Concepts/Cryptographic Solutions/Certificates.md",
     "Threats, Vulnerabilities and Mitigations",
     "assets/Pasted image 20251021155803.png",
-    "General Security Concepts/Cryptographic Solutions/Blockchain Technology.md",
     "General Security Concepts/Cryptographic Solutions/Hashing and Digital Signatures.md",
     "assets/Pasted image 20251018172606.png",
-    "assets/Pasted image 20251018172309.png",
     "assets/Pasted image 20251018172248.png",
-    "assets/Pasted image 20251018172230.png",
-    "assets/Pasted image 20251017122936.png",
     "General Security Concepts/Cryptographic Solutions/Obfuscation.md",
     "General Security Concepts/Cryptographic Solutions/Encryption Technologies.md",
     "General Security Concepts/Cryptographic Solutions/Key Exchange.md",
     "General Security Concepts/Change Management/Technical Change Management.md",
-    "assets/Pasted image 20251014000343.png",
-    "assets/Pasted image 20251014000411.png",
-    "assets/Pasted image 20251014000318.png",
     "assets",
     "General Security Concepts/Change Management/Change Management.md"
   ]
