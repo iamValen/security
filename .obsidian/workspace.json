@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/SQL Injection.md",
+                "file": "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Hardware Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Injection"
+              "title": "Hardware Vulnerabilities"
             }
           }
         ]
@@ -169,8 +169,11 @@
   },
   "active": "57b48a51caeed14c",
   "lastOpenFiles": [
-    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Operating System Vulnerabilities.md",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Cross-site scripting (XSS).md",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Hardware Vulnerabilities.md",
+    "assets/Pasted image 20251029213433.png",
     "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/SQL Injection.md",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Operating System Vulnerabilities.md",
     "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Software updates.md",
     "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Race Conditions.md",
     "assets/Pasted image 20251029152400.png",
@@ -196,7 +199,6 @@
     "assets/Pasted image 20251021155803.png",
     "General Security Concepts/Cryptographic Solutions/Hashing and Digital Signatures.md",
     "assets/Pasted image 20251018172606.png",
-    "assets/Pasted image 20251018172248.png",
     "General Security Concepts/Cryptographic Solutions/Obfuscation.md",
     "General Security Concepts/Cryptographic Solutions/Encryption Technologies.md",
     "General Security Concepts/Cryptographic Solutions/Key Exchange.md",
