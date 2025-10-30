@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Hardware Vulnerabilities.md",
+                "file": "Threats, Vulnerabilities and Mitigations/Indicators of Malicious Activity/Overview of Malware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware Vulnerabilities"
+              "title": "Overview of Malware"
             }
           }
         ]
@@ -167,10 +167,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "57b48a51caeed14c",
+  "active": "1ff912ce5810a460",
   "lastOpenFiles": [
-    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Cross-site scripting (XSS).md",
+    "Threats, Vulnerabilities and Mitigations/Indicators of Malicious Activity",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Zero-day Vulnerabilities.md",
+    "Threats, Vulnerabilities and Mitigations/Indicators of Malicious Activity/Overview of Malware.md",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Mobile Device Security.md",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Misconfiguration Vulnerabilities.md",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Supply Chain Vulnerabilities.md",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Cloud-specific Vulnerabilities.md",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Virtualization Security.md",
     "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Hardware Vulnerabilities.md",
+    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Cross-site scripting (XSS).md",
     "assets/Pasted image 20251029213433.png",
     "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/SQL Injection.md",
     "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Operating System Vulnerabilities.md",
@@ -200,10 +208,6 @@
     "General Security Concepts/Cryptographic Solutions/Hashing and Digital Signatures.md",
     "assets/Pasted image 20251018172606.png",
     "General Security Concepts/Cryptographic Solutions/Obfuscation.md",
-    "General Security Concepts/Cryptographic Solutions/Encryption Technologies.md",
-    "General Security Concepts/Cryptographic Solutions/Key Exchange.md",
-    "General Security Concepts/Change Management/Technical Change Management.md",
-    "assets",
-    "General Security Concepts/Change Management/Change Management.md"
+    "assets"
   ]
 }
