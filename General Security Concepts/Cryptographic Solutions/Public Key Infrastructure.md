@@ -8,7 +8,7 @@
 
 
 ## Symmetric encryption
-#### A single, shared key
+#### A single, shared key1
 - Encrypt with the key
 - Decrypt with the same key
 - If it gets out, you'll need another key
