@@ -167,8 +167,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "57b48a51caeed14c",
+  "active": "1ff912ce5810a460",
   "lastOpenFiles": [
+    "Threats, Vulnerabilities and Mitigations.zip",
+    "Threats, Vulnerabilities and Mitigations.zip.cms182.part",
     "General Security Concepts/Cryptographic Solutions/Public Key Infrastructure.md",
     "General Security Concepts/Cryptographic Solutions/Encrypting Data.md",
     "General Security Concepts/Cryptographic Solutions/Key Exchange.md",
@@ -195,7 +197,6 @@
     "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Mobile Device Security.md",
     "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Misconfiguration Vulnerabilities.md",
     "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Supply Chain Vulnerabilities.md",
-    "Threats, Vulnerabilities and Mitigations/Types of Vulnerabilities/Cloud-specific Vulnerabilities.md",
     "assets/Pasted image 20251029213433.png",
     "assets/Pasted image 20251029152400.png",
     "assets/Pasted image 20251029151246.png",
